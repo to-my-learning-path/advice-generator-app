@@ -1,0 +1,11 @@
+@tailwind base;
+
+@layer base {
+  body {
+    @apply bg-darkGrayishBlue;
+    @apply font-manrope;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;
