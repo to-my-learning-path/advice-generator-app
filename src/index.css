@@ -2,7 +2,7 @@
 
 @layer base {
   body {
-    @apply bg-darkGrayishBlue;
+    @apply bg-darkBlue;
     @apply font-manrope;
   }
 }

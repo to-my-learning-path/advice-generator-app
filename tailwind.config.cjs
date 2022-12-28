@@ -15,6 +15,9 @@ module.exports = {
     fontSize: {
       qouteFontSize: "28px",
     },
+    boxShadow: {
+      buttonShadow: "0 0px 25px 0px hsl(150, 100%, 66%)",
+    },
     extend: {},
   },
   plugins: [],
